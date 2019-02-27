@@ -1,0 +1,14 @@
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\bin\Debug\ExerciseClass2.exe.config
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\bin\Debug\ExerciseClass2.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\bin\Debug\ExerciseClass2.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\obj\Debug\ExerciseClass2.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\obj\Debug\ExerciseClass2.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\ExerciseClass2\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\bin\Debug\ExerciseClass2.exe.config
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\bin\Debug\ExerciseClass2.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\bin\Debug\ExerciseClass2.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\obj\Debug\ExerciseClass2.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\RealCalculator\obj\Debug\ExerciseClass2.pdb
